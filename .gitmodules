@@ -11,3 +11,6 @@
 [submodule "lua-maxminddb"]
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb.git
+[submodule "luci-app-adguardhome"]
+	path = luci-app-adguardhome
+	url = https://github.com/rufengsuixing/luci-app-adguardhome.git
