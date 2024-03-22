@@ -4,15 +4,10 @@
 	branch = 18.06
 [submodule "luci-app-argon-config"]
 	path = luci-app-argon-config
-	url = https://github.com/jerrykuku/luci-app-argon-config.git
-	branch = master
-	
+	url = https://github.com/jerrykuku/luci-app-argon-config.git	
 [submodule "luci-app-vssr"]
 	path = luci-app-vssr
 	url = https://github.com/sonyvivo-c/luci-app-vssr.git
 [submodule "lua-maxminddb"]
 	path = lua-maxminddb
 	url = https://github.com/jerrykuku/lua-maxminddb.git
-[submodule "luci-app-adguardhome"]
-	path = luci-app-adguardhome
-	url = https://github.com/xiaoxiao29/luci-app-adguardhome.git
